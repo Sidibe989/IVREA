@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 
 
 public class EntryPoint extends Application {
-
+ // COME TI chiama? SHOWNS HISTORY
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("/fxml/Scene.fxml"));
